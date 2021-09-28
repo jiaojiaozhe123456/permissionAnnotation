@@ -1,0 +1,10 @@
+# Project exclude paths
+/.gradle/
+/Annotations/build/
+/Annotations/build/classes/java/main/
+/app/build/
+/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/
+/Complier/build/
+/Complier/build/classes/java/main/
+/Library/build/
+/Library/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/
