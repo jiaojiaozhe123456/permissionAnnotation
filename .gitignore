@@ -1,5 +1,6 @@
 # Project exclude paths
 /.gradle/
+/.idea/
 /Annotations/build/
 /Annotations/build/classes/java/main/
 /app/build/
